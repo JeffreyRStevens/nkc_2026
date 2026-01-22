@@ -238,9 +238,11 @@ Sources: [pawleaks.com](https://pawleaks.com/are-dogs-color-blind-and-what-color
 [`jstevens5@unl.edu`]{.absolute top=350 left="30%"}
 [`dogcog.unl.edu`]{.absolute top=400 left="30%"}
 [`unl-cchil`]{.absolute top=450 left="30%"}
-[`@unl_cchil`]{.absolute top=500 left="30%"}
-[`r icons::icon_style(icons::fontawesome("envelope"), fill = "white")`]{.absolute top=355 left="25%"}
-[`r icons::icon_style(icons::fontawesome("home"), fill = "white")`]{.absolute top=405 left="25%"}
-[`r icons::icon_style(icons::fontawesome("facebook"), fill = "white")`]{.absolute top=455 left="25%"}
-[`r icons::icon_style(icons::fontawesome("instagram"), fill = "white")`]{.absolute top=505 left="25%"}
+[`unl_cchil`]{.absolute top=500 left="30%"}
+[`@unlcchil.bsky.social`]{.absolute top=550 left="30%"}
+[{{< fa envelope >}}]{.absolute top=355 left="25%"}
+[{{< fa home >}}]{.absolute top=405 left="25%"}
+[{{< fa brands facebook >}}]{.absolute top=455 left="25%"}
+[{{< fa brands instagram >}}]{.absolute top=505 left="25%"}
+[{{< fa brands bluesky >}}]{.absolute top=555 left="25%"}
 :::
